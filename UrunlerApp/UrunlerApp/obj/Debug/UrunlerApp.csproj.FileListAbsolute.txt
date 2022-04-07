@@ -1,0 +1,39 @@
+c:\users\zeynep\documents\visual studio 2012\Projects\UrunlerApp\UrunlerApp\bin\Debug\UrunlerApp.exe.config
+c:\users\zeynep\documents\visual studio 2012\Projects\UrunlerApp\UrunlerApp\bin\Debug\UrunlerApp.exe
+c:\users\zeynep\documents\visual studio 2012\Projects\UrunlerApp\UrunlerApp\bin\Debug\UrunlerApp.pdb
+c:\users\zeynep\documents\visual studio 2012\Projects\UrunlerApp\UrunlerApp\obj\Debug\UrunlerApp.csprojResolveAssemblyReference.cache
+c:\users\zeynep\documents\visual studio 2012\Projects\UrunlerApp\UrunlerApp\obj\Debug\MainWindow.baml
+c:\users\zeynep\documents\visual studio 2012\Projects\UrunlerApp\UrunlerApp\obj\Debug\MainWindow.g.cs
+c:\users\zeynep\documents\visual studio 2012\Projects\UrunlerApp\UrunlerApp\obj\Debug\App.g.cs
+c:\users\zeynep\documents\visual studio 2012\Projects\UrunlerApp\UrunlerApp\obj\Debug\UrunlerApp_MarkupCompile.cache
+c:\users\zeynep\documents\visual studio 2012\Projects\UrunlerApp\UrunlerApp\obj\Debug\UrunlerApp.g.resources
+c:\users\zeynep\documents\visual studio 2012\Projects\UrunlerApp\UrunlerApp\obj\Debug\UrunlerApp.Properties.Resources.resources
+c:\users\zeynep\documents\visual studio 2012\Projects\UrunlerApp\UrunlerApp\obj\Debug\UrunlerApp.csproj.GenerateResource.Cache
+c:\users\zeynep\documents\visual studio 2012\Projects\UrunlerApp\UrunlerApp\obj\Debug\UrunlerApp.exe
+c:\users\zeynep\documents\visual studio 2012\Projects\UrunlerApp\UrunlerApp\obj\Debug\UrunlerApp.pdb
+F:\Zeynep\Programlar\UrunlerApp\UrunlerApp\bin\Debug\UrunlerApp.exe.config
+F:\Zeynep\Programlar\UrunlerApp\UrunlerApp\obj\Debug\UrunlerApp.exe
+F:\Zeynep\Programlar\UrunlerApp\UrunlerApp\obj\Debug\UrunlerApp.pdb
+F:\Zeynep\Programlar\UrunlerApp\UrunlerApp\bin\Debug\UrunlerApp.exe
+F:\Zeynep\Programlar\UrunlerApp\UrunlerApp\bin\Debug\UrunlerApp.pdb
+F:\Zeynep\Programlar\UrunlerApp\UrunlerApp\obj\Debug\UrunlerApp.csprojResolveAssemblyReference.cache
+F:\Zeynep\Programlar\UrunlerApp\UrunlerApp\obj\Debug\MainWindow.baml
+F:\Zeynep\Programlar\UrunlerApp\UrunlerApp\obj\Debug\MainWindow.g.cs
+F:\Zeynep\Programlar\UrunlerApp\UrunlerApp\obj\Debug\App.g.cs
+F:\Zeynep\Programlar\UrunlerApp\UrunlerApp\obj\Debug\UrunlerApp_MarkupCompile.cache
+F:\Zeynep\Programlar\UrunlerApp\UrunlerApp\obj\Debug\UrunlerApp.g.resources
+F:\Zeynep\Programlar\UrunlerApp\UrunlerApp\obj\Debug\UrunlerApp.Properties.Resources.resources
+F:\Zeynep\Programlar\UrunlerApp\UrunlerApp\obj\Debug\UrunlerApp.csproj.GenerateResource.Cache
+G:\dosya\BilgisayarDers\Programlar\UrunlerApp\UrunlerApp\bin\Debug\UrunlerApp.exe.config
+G:\dosya\BilgisayarDers\Programlar\UrunlerApp\UrunlerApp\obj\Debug\UrunlerApp.exe
+G:\dosya\BilgisayarDers\Programlar\UrunlerApp\UrunlerApp\obj\Debug\UrunlerApp.pdb
+G:\dosya\BilgisayarDers\Programlar\UrunlerApp\UrunlerApp\bin\Debug\UrunlerApp.exe
+G:\dosya\BilgisayarDers\Programlar\UrunlerApp\UrunlerApp\bin\Debug\UrunlerApp.pdb
+G:\dosya\BilgisayarDers\Programlar\UrunlerApp\UrunlerApp\obj\Debug\MainWindow.baml
+G:\dosya\BilgisayarDers\Programlar\UrunlerApp\UrunlerApp\obj\Debug\MainWindow.g.cs
+G:\dosya\BilgisayarDers\Programlar\UrunlerApp\UrunlerApp\obj\Debug\App.g.cs
+G:\dosya\BilgisayarDers\Programlar\UrunlerApp\UrunlerApp\obj\Debug\UrunlerApp_MarkupCompile.cache
+G:\dosya\BilgisayarDers\Programlar\UrunlerApp\UrunlerApp\obj\Debug\UrunlerApp.g.resources
+G:\dosya\BilgisayarDers\Programlar\UrunlerApp\UrunlerApp\obj\Debug\UrunlerApp.Properties.Resources.resources
+G:\dosya\BilgisayarDers\Programlar\UrunlerApp\UrunlerApp\obj\Debug\UrunlerApp.csproj.GenerateResource.Cache
+G:\dosya\BilgisayarDers\Programlar\UrunlerApp\UrunlerApp\obj\Debug\UrunlerApp.csprojResolveAssemblyReference.cache
